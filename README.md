@@ -1,6 +1,8 @@
 # megaman2600
 Mega Man for the Atari 2600
 
+Written in Batari and 6502 assembler
+
 OK, now here is the source for those who would like to play with it, add more levels, 
 program some more enemies or just use it for your own creations / inspiration or answer some questions.
 
